@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome To My Github</h1>
 
-![Banner](https://i.ibb.co.com/9HcbWJV3/MUSTAFA-TAZWER.png) 
+![Banner](https://i.ibb.co.com/dw7hGp8q/mustaf-mern-stack-developer.png) 
 
 <div align="center">
    <a href="https://github.com/sahkil12/sahkil12" target="_blank">
@@ -75,7 +75,7 @@ const Mustafa = {
 <div align="center">
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=sahkil12&theme=dark&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahkil12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  
 </div>
 
 ## 🏆 GitHub Trophies
