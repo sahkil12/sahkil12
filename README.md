@@ -10,12 +10,12 @@
    MERN stack developer from Chittagong, Bangladesh.
 </div>
 
-# 💫 About Me:
+# 💫 About Me :
 
-- 🔭 **Currently working on:** MERN-stack web apps with React, Node.js, Express.js & MongoDB  
+- 🔭 **Currently working on:** MERN-Stack web apps with React, Node.js, Express.js & MongoDB  
 - 🌱 **Learning:** Next.js, TypeScript, React Native  
-- 💬 **Ask me about:** JavaScript, React, Firebase, MongoDB  
-- 📫 **How to reach me:** [Email](mailto:tazwershakilshakil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/md-mustafa32/)  
+- 💬 **Ask me about:** JavaScript, React, MongoDB  
+- 📭 **How to reach me:** [Email](mailto:tazwershakilshakil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/md-mustafa32/)  
 - ⚡ **Fun fact:** I can debug faster with a coffee in hand!  
 - 🧩 **Current Focus:** Leading a way in TypeScript & React Native  
 
@@ -25,15 +25,15 @@
 const Mustafa = {
     pronouns: "He/Him",
     code: ["JavaScript", "React"],
-    askMeAbout: ["web dev", "app dev", "tech trends"],
+    askMeAbout: ["web dev", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js (learning...)"],
             css: ["Sass", "Tailwind"],
-            uiLibraries: ["Material UI", "Mumba UI", "Daisy UI"],
+            uiLibraries: ["Material UI", "Daisy UI"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: ["Node", "Express"],
         },
         devOps: ["GitHub Actions"],
         databases: ["MongoDB"],
@@ -50,7 +50,7 @@ const Mustafa = {
 ## 🛠️ Skills I'm Improving
 - React + Node.js
 - MongoDB
-- React hooks
+- React hooks Form
 - TanStack Query
 - JSON Web Token
 
