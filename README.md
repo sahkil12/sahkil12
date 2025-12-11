@@ -36,9 +36,9 @@ const Mustafa = {
             js: ["Node", "Express", "NestJS"],
         },
         devOps: ["GitHub Actions"],
-        databases: ["PostgreSQL", "MongoDB"],
+        databases: ["MongoDB"],
         misc: ["REST APIs"],
-        generativeAI: ["GPT"],
+        generativeAI: ["GPT, Gemini"],
     },
     currentFocus: "Leading a way in TypeScript & React Native",
     funFact: "I can debug faster with a coffee in hand!"
