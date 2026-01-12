@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome To My Github</h1>
 
-![Banner](https://i.ibb.co.com/hFPNZ6RR/MUSTAFA-TAZWER.jpg) 
+![Banner](https://i.ibb.co.com/Df6zfgJ4/MUSTAFA-TAZWER-1.jpg) 
 
 <div align="center">
    <a href="https://github.com/sahkil12/sahkil12" target="_blank">
