@@ -35,9 +35,7 @@ const Mustafa = {
         backEnd: {
             js: ["Node", "Express"],
         },
-        devOps: ["GitHub Actions"],
         databases: ["MongoDB"],
-        misc: ["REST APIs"],
         generativeAI: ["GPT, Gemini"],
     },
     currentFocus: "Leading a way in TypeScript & React Native",
