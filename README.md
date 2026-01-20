@@ -15,7 +15,7 @@
 - 🔭 **Currently working on:** MERN-Stack web apps with React, Node.js, Express.js & MongoDB  
 - 🌱 **Learning:** Next.js, TypeScript, React Native  
 - 💬 **Ask me about:** JavaScript, React, MongoDB  
-- 📭 **How to reach me:** [Email](mailto:tazwershakilshakil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/md-mustafa32/)  
+- 📭 **How to reach me:** [Email](mailto:tazwershakilshakil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mustafa-tazwer/)  
 - ⚡ **Fun fact:** I can debug faster with a coffee in hand!  
 - 🧩 **Current Focus:** Leading a way in TypeScript & React Native  
 
@@ -60,7 +60,7 @@ const Mustafa = {
 - API performance optimization
 
 ## 🌐My Socials Account:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tazwer.shakil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-mustafa32) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MustafaTaz11432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tazwershakilshakil@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tazwer.shakil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-tazwer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MustafaTaz11432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tazwershakilshakil@gmail.com) 
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
