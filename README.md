@@ -24,7 +24,7 @@
 ```javascript
 const Mustafa = {
     pronouns: "He/Him",
-    code: ["JavaScript", "React"],
+    code: ["JavaScript", "React", "TypeScript", "Next.js"],
     askMeAbout: ["web dev", "tech trends"],
     technologies: {
         frontEnd: {
@@ -46,17 +46,18 @@ const Mustafa = {
 </hr>
 
 ## 🛠️ Skills I'm Improving
-- React + Node.js
+- React + Node.js + NextJs
+- TypeScript
 - MongoDB
-- React hooks Form
+- Structural and Clean Code
 - TanStack Query
 - JSON Web Token
 
 ## 🌱 My Learning Goals
 - Clean architecture
-- React Native, Typscript, Redux
+- React Native, Typscript, Redux, NextJs
 - PostgreSQL,MYSQL
-- ML
+- Ai Automation
 - API performance optimization
 
 ## 🌐My Socials Account:
@@ -73,7 +74,6 @@ const Mustafa = {
 <div align="center">
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=sahkil12&theme=dark&hide_border=false" />
-  
 </div>
 
 ## 🏆 GitHub Trophies
