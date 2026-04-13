@@ -4,7 +4,7 @@
 
 <div align="center">
    <a href="https://github.com/sahkil12/sahkil12" target="_blank">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F7AB0A&width=500&lines=Hi+I+am+Mustafa+Tazwer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7AB0A&width=700&lines=Hi+I+am+Mustafa+Tazwer+Shakil" alt="Typing SVG" />
   </a>
   <br />
    MERN stack developer from Chittagong, Bangladesh.
