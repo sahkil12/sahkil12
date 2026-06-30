@@ -1,23 +1,20 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Welcome To My Github</h1>
 
-![Banner](https://i.ibb.co.com/pTKx763/MUSTAFA-TAZWER-2.jpg) 
+
 
 <div align="center">
    <a href="https://github.com/sahkil12/sahkil12" target="_blank">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7AB0A&width=700&lines=Hi+I+am+Mustafa+Tazwer+Shakil" alt="Typing SVG" />
   </a>
   <br />
-   MERN stack developer from Chittagong, Bangladesh.
+   Full-stack developer from Chittagong, Bangladesh.
 </div>
 
 # 💫 About Me :
 
-- 🔭 **Currently working on:** MERN-Stack web apps with React, Node.js, Express.js & MongoDB  
-- 🌱 **Learning:** Next.js, TypeScript, React Native  
-- 💬 **Ask me about:** JavaScript, React, MongoDB  
-- 📭 **How to reach me:** [Email](mailto:tazwershakilshakil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mustafa-tazwer/)  
-- ⚡ **Fun fact:** I can debug faster with a coffee in hand!  
-- 🧩 **Current Focus:** Leading a way in TypeScript & React Native  
+- 🔭 **Currently working on:** Full-Stack web apps with React, Next.js, Node.js, Express.js & MongoDB  
+- 🌱 **Learning:** TypeScript, React Native, AI Automation, Workflow Automation  
+- 📭 **How to reach me:** [Email](mailto:tazwershakilshakil@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mustafa-tazwer/)    
 
 ###  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more info about me..
 
@@ -25,7 +22,6 @@
 const Mustafa = {
     pronouns: "He/Him",
     code: ["JavaScript", "React", "TypeScript", "Next.js"],
-    askMeAbout: ["web dev", "tech trends"],
     technologies: {
         frontEnd: {
             js: ["React", "Next.js (learning...)"],
@@ -36,29 +32,20 @@ const Mustafa = {
             js: ["Node", "Express"],
         },
         databases: ["MongoDB"],
-        generativeAI: ["GPT, Gemini"],
-    },
-    currentFocus: "Leading a way in TypeScript & React Native",
-    funFact: "I can debug faster with a coffee in hand!"
+        generativeAI: ["OpenAI, Gemini, Claude, Cursor"],
+    }
 };
 ```
 
 </hr>
 
 ## 🛠️ Skills I'm Improving
+- AI Automation
+- AI Powerde Software
 - React + Node.js + NextJs
-- TypeScript
-- MongoDB
+- Mongoose
+- SQL Database
 - Structural and Clean Code
-- TanStack Query
-- JSON Web Token
-
-## 🌱 My Learning Goals
-- Clean architecture
-- React Native, Typscript, Redux, NextJs
-- PostgreSQL,MYSQL
-- Ai Automation
-- API performance optimization
 
 ## 🌐My Socials Account:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tazwer.shakil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-tazwer/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MustafaTaz11432) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tazwershakilshakil@gmail.com) 
